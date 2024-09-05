@@ -13,7 +13,8 @@ export interface Product {
     tags:string,
     type:string,
     weight:string,
-    added:boolean
+    added:boolean,
+    quantity:numberw
 }
 
 export interface User{

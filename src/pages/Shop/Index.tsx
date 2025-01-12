@@ -20,7 +20,7 @@ export default function Shop() {
             >
               <img
                 loading="lazy"
-                src="../../../public/images/shop/shop_banner_character1.png"
+                src="../../../images/shop/shop_banner_character1.png"
                 width={1759}
                 height={420}
                 alt="Pattern"

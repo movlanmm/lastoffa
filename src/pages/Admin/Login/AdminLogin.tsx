@@ -108,7 +108,7 @@ export default function AdminLogin() {
                         {/*begin::Image*/}
                         <img
                             className="theme-light-show mx-auto mw-100 w-150px w-lg-300px mb-10 mb-lg-20"
-                            src='/public/images/agency.png'
+                            src='/images/agency.png'
                             alt=""
                         />
                         <img

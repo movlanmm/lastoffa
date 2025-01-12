@@ -45,7 +45,7 @@ export default function Home() {
                 >
                   <img
                     loading="lazy"
-                    src="../../../public/images/slideshow-pattern.png"
+                    src="../../../images/slideshow-pattern.png"
                     width={1761}
                     height={778}
                     alt="Pattern"
@@ -56,7 +56,7 @@ export default function Home() {
                 <div className="slideshow-character position-absolute bottom-0 pos_right-center">
                   <img
                     loading="lazy"
-                    src="../../../public/images/slideshow-character1.png"
+                    src="../../../images/slideshow-character1.png"
                     width={400}
                     height={733}
                     alt="Woman Fashion 1"
@@ -101,7 +101,7 @@ export default function Home() {
                 >
                   <img
                     loading="lazy"
-                    src="../../../public/images/slideshow-pattern.png"
+                    src="../../../images/slideshow-pattern.png"
                     width={1761}
                     height={778}
                     alt="Pattern"
@@ -111,7 +111,7 @@ export default function Home() {
                 <div className="slideshow-character position-absolute bottom-0 pos_right-center">
                   <img
                     loading="lazy"
-                    src="../../../public/images/slideshow-character2.png"
+                    src="../../../images/slideshow-character2.png"
                     width={400}
                     height={690}
                     alt="Woman Fashion 2"
